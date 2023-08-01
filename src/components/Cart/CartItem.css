@@ -5,7 +5,7 @@
     padding-left: 0px !important;
 }
 
-.quantity input {
+.quantity span {
     width: 40px;
     height: 30px;
     border: 1px solid rgb(0, 204, 255);
