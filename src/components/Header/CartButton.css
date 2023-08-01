@@ -8,6 +8,9 @@
     background-color: black  !important;
 }
 .badge-wrap {
+    top: -3px;
+    right: 9px;
     font-size: 18px !important;
-    padding: 3px !important;
+    /* padding: 3px !important; */
+    color: #56CCF2 !important; 
 }
