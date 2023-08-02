@@ -12,28 +12,28 @@ const NavigationBar = (props) => {
           <Nav className="m-auto">
             <NavLink
               to="/home"
-              className=" pe-5"
+              className=" mx-3 px-2"
               style={{ color: "white", fontFamily: "serif", fontSize: "18px", textDecoration: "none" }}
             >
               HOME
             </NavLink>
             <NavLink
               to="/store"
-              className="pe-5"
+              className="mx-3 px-2"
               style={{ color: "white", fontFamily: "serif", fontSize: "18px", textDecoration: "none"  }}
             >
               STORE
             </NavLink>
             <NavLink
               to="/about"
-              className=" pe-5"
+              className=" mx-3 px-2"
               style={{ color: "white", fontFamily: "serif", fontSize: "18px", textDecoration: "none"  }}
             >
               ABOUT
             </NavLink>
             <NavLink
             to='/contact'
-            className="pe-5"
+            className="mx-3 px-2"
             style={{ color: "white", fontFamily: "serif", fontSize: "18px", textDecoration: "none"}}
             >
               CONTACT US
